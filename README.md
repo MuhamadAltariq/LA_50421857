@@ -1,1 +1,1 @@
-# LA_50421857
+# Dalam file activity berisikan 7 peetemuan yang dimana belajar tentang bahasa pemrograman java untuk membuat GUI dan ORM
